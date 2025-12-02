@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
----
-
-## 📖 关于我
-
 <div align="center">
   <a href="https://github.com/AMcza">
     <img src="https://img.shields.io/badge/Full%20Stack-Developer-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer">
@@ -21,8 +17,6 @@
   🌱 持续学习，不断探索新技术<br>
   ⚡ 代码改变世界，技术创造未来
 </p>
-
----
 
 ## 🧑‍🔧 技术栈
 
@@ -43,6 +37,8 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </div>
 
+<div align="center">
+
 **🔧 Java核心技术:**
 - `集合框架` (HashMap, ArrayList, ConcurrentHashMap)
 - `并发编程` (ThreadLocal, CAS, Synchronized, JUC)
@@ -53,6 +49,8 @@
 - `MySQL` (锁机制, 索引优化, InnoDB引擎, ACID事务)
 - `Elasticsearch` (全文检索, 项目实战应用)
 
+</div>
+
 ### 🎨 前端技术
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue">
@@ -60,8 +58,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios">
 </div>
-
----
 
 ## 🌟 个人博客与项目
 
@@ -121,8 +117,6 @@
   </tr>
 </table>
 
----
-
 ## 📞 联系方式
 
 <div align="center">
@@ -140,16 +134,12 @@
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AMcza&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/AMcza?style=for-the-badge&color=58A6FF" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/AMcza?style=for-the-badge&color=58A6FF" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=AMcza&style=for-the-badge&color=FF69B4" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AMcza?style=for-the-badge&color=FF69B4" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/AMcza?style=for-the-badge&color=FF69B4" alt="Stars"/>
 </div>
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Feel+free+to+connect+with+me!+%F0%9F%9A%80" alt="Thank You"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Feel+free+to+connect+with+me!+%F0%9F%9A%80" alt="Thank You"/>
 </div>
