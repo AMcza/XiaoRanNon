@@ -1,3 +1,4 @@
+## 🧑‍🔧 关于我
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
 </div>
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/操作系统-FF6B6B?style=flat&logo=windows&logoColor=white" alt="OS">
   <img src="https://img.shields.io/badge/数据结构与算法-00C851?style=flat&logo=python&logoColor=white" alt="DSA">
 </div>
-
 ### 🚀 后端技术
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
@@ -36,21 +36,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </div>
-
-<div align="center">
-
-**🔧 Java核心技术:**
-- `集合框架` (HashMap, ArrayList, ConcurrentHashMap)
-- `并发编程` (ThreadLocal, CAS, Synchronized, JUC)
-- `JVM原理` (G1/CMS垃圾回收器, 内存模型, 类加载机制)
-
-**💾 数据库技术:**
-- `Redis` (数据结构, 过期策略, 持久化AOF/RDB, 内存淘汰)
-- `MySQL` (锁机制, 索引优化, InnoDB引擎, ACID事务)
-- `Elasticsearch` (全文检索, 项目实战应用)
-
-</div>
-
 ### 🎨 前端技术
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue">
@@ -60,7 +45,6 @@
 </div>
 
 ## 🌟 个人博客与项目
-
 ### 📝 知识分享
 <div align="center">
   <a href="https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675">
@@ -73,9 +57,7 @@
     <img src="https://img.shields.io/badge/✍️-CSDN博客-FF6347?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN">
   </a>
 </div>
-
 ### 🚀 精选项目
-
 <table>
   <tr>
     <td width="50%">
