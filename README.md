@@ -20,14 +20,11 @@
 </p>
 
 ## 🧑‍🔧 技术栈
-
-### 🎯 基础知识
 <div align="center">
   <img src="https://img.shields.io/badge/计算机网络-4285F4?style=flat&logo=wireshark&logoColor=white" alt="Network">
   <img src="https://img.shields.io/badge/操作系统-FF6B6B?style=flat&logo=windows&logoColor=white" alt="OS">
   <img src="https://img.shields.io/badge/数据结构与算法-00C851?style=flat&logo=python&logoColor=white" alt="DSA">
 </div>
-### 🚀 后端技术
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
@@ -36,7 +33,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </div>
-### 🎨 前端技术
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
@@ -60,7 +56,7 @@
 ### 🚀 精选项目
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <a href="https://github.com/AMcza/cmm-interview-project">
         <div align="center">
           <h3>🎯 CMM面试答题平台</h3>
@@ -72,7 +68,7 @@
         </div>
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <a href="https://github.com/AMcza/CmmAiAgent">
         <div align="center">
           <h3>🤖 Cmmlover智能体</h3>
@@ -85,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <a href="https://github.com/AMcza/cmmdati">
         <div align="center">
           <h3>🎮 AI答题平台</h3>
