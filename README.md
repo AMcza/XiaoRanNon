@@ -123,27 +123,6 @@
 
 ---
 
-## 📊 2024年度统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMcza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMcza&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMcza&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 成就徽章
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMcza&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📞 联系方式
 
 <div align="center">
