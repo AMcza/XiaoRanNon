@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -151,5 +151,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=30&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Feel+free+to+connect+with+me!+%F0%9F%9A%80" alt="Thank You"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Feel+free+to+connect+with+me!+%F0%9F%9A%80" alt="Thank You"/>
 </div>
