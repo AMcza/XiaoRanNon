@@ -2,21 +2,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/AMcza">
-    <img src="https://img.shields.io/badge/Full%20Stack-Developer-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Love-Programming-F7B731?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Love Programming">
-  </a>
-</div>
-
 <p align="center">
   🔭 热爱编程的全栈工程师<br>
-  💡 专注于构建高性能、可扩展的Web应用<br>
-  🌱 持续学习，不断探索新技术<br>
-  ⚡ 代码改变世界，技术创造未来
+  💡 分享自己学习的项目<br>
+  🌱 记录自己成长的过程<br>
+  ⚡ 一起加油！
 </p>
 
 #### 🧑‍🔧 技术栈
