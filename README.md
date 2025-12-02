@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios">
 </div>
 
-### 📝 知识分享
+### 📝 学习记录
 <div align="center">
   <a href="https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675">
     <img src="https://img.shields.io/badge/📚-飞书知识库-00D6B9?style=for-the-badge&logo=feishu&logoColor=white" alt="飞书知识库"> 学习笔记
