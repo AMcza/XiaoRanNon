@@ -8,7 +8,7 @@
 ## 🌟 个人博客与项目
 ### 📝 博客
 - [飞书知识库](https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)-👋 学习笔记记录 ✨
-- [编程盗号](https://www.codefather.cn/user/1751965032847069185/comment)-👋 学习社区 ✨
+- [编程导航](https://www.codefather.cn/user/1751965032847069185/comment)-👋 学习社区 ✨
 - [CSDN](https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)-👋 有时间发发 ✨
 ### 🚀 实践项目
 - [cmm面试答题平台](https://github.com/AMcza/cmm-interview-project) - 基于React + Spring Boot + Redis + Elasticsearch高并发面试答题平台
