@@ -19,7 +19,7 @@
   ⚡ 代码改变世界，技术创造未来
 </p>
 
-## 🧑‍🔧 技术栈
+#### 🧑‍🔧 技术栈
 <div align="center">
   <img src="https://img.shields.io/badge/计算机网络-4285F4?style=flat&logo=wireshark&logoColor=white" alt="Network">
   <img src="https://img.shields.io/badge/操作系统-FF6B6B?style=flat&logo=windows&logoColor=white" alt="OS">
@@ -53,7 +53,7 @@
   </a>
 </div>
 
-## 📞 联系方式
+### 📞 联系方式
 
 <div align="center">
   <a href="mailto:161415506@qq.com">
