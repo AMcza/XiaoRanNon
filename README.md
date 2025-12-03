@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 <p align="center">
-  🔭 热爱编程的全栈工程师 💡 分享自己学习的项目 🌱 记录自己成长的过程 ⚡ 一起加油！
+  🔭 偷偷编程的全栈工程师 💡 分享自己学习的项目 🌱 记录自己成长的过程 ⚡ 一起加油！
 </p>
 
 ### 🧑‍🔧 技术栈
